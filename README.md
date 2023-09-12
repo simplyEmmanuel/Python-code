@@ -26,6 +26,11 @@ Understanding one's BMI is an essential aspect of maintaining a healthy lifestyl
 
 To run this application, you will need Python 3.x installed on your system. If you don't have Python installed, you can download it [here](https://www.python.org/downloads/)
 
+1. Clone the Repository:
+```
+git clone https://github.com/yourusername/simple-bmi-calculator.git
+```
+
 
 
 
