@@ -24,8 +24,7 @@ Understanding one's BMI is an essential aspect of maintaining a healthy lifestyl
 
 ## Instalation
 
-To run this application, you will need Python 3.x installed on your system. If you don't have Python installed, you can download it from [here.](https://www.python.org/downloads/)
-
+To run this application, you will need Python 3.x installed on your system. If you don't have Python installed, you can download it [here](https://www.python.org/downloads/)
 
 
 
